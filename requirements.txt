@@ -1,0 +1,9 @@
+django-ninja
+django-ninja-extra
+django-ninja-jwt
+pillow
+django
+django-cors-headers
+pillow-avif-plugin
+requests
+uuid
