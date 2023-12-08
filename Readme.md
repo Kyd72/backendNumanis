@@ -30,6 +30,42 @@ Les technologies, langages, bibliothèques ou tout ce que vous réussirez à uti
 si possible maintenus. Cependant, vous n’avez pas le droit de faire appel à d’autres API tierces payantes.
 
 
+## Faits
+
+La conversion de tout type d'image au format AVIF avec un paramètre pour spécifier le niveau de compression
+
+Les technologies, langages, bibliothèques utilisés sont open-source.
+
+Aucune  API tierces payantes.
+
+Possibilité d'importer une image locale
+
+Un MAGNIFIQUEEEE site web !!!
+
+Pas d’images de 1px par 1px
+
+## Comment tester ??
+
+Executer le Dockerfile du backend et lancer le conteneur docker
+
+Executer le Dockerfile du frontend et lancer le conteneur docker
+
+Tester directement sur le frontend 
+
+localhost:{le port sur lequel le conteneur frontend est écouté}
+
+
+### Documentation de API
+
+localhost:{le port sur lequel le conteneur backend est écouté}/Numanis/docs
+
+
+
+# Pour tester sans docker, cloner le projet et executer les commandes ci-dessous
+
+Dans ce cas, la doc des api est disponible au http://127.0.0.1:8000/Numanis/docs
+
+
 
 
 ## Project Setup
